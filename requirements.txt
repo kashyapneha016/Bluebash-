@@ -1,0 +1,7 @@
+streamlit
+psycopg2
+langchain
+langchain-google-genai
+chromadb
+pypdf
+google-generativeai
