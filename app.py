@@ -9,7 +9,7 @@ from langchain_google_genai import GoogleGenerativeAIEmbeddings, ChatGoogleGener
 import google.generativeai as genai
 
 # Set up your Google API key
-google_api_key = "AIzaSyAiSGThRnFjYQTnoNKoos-nkvf_HZ71T7k"
+google_api_key = "your_api_key"
 genai.configure(api_key=google_api_key)
 
 # Configure model
